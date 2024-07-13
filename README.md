@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-1. [Description of Project](https://github.com/iamabhas/nest_url_shortener/blob/main/README.md#1-description-of-project)
-2. [Technologies Used](https://github.com/iamabhas/nest_url_shortener/blob/main/README.md#2-technologies-used)
-3. [How to Run and Test API](https://github.com/iamabhas/nest_url_shortener/blob/main/README.md#3-how-to-run-and-test-api)
-4. [Backend NestJS Setup](https://github.com/iamabhas/nest_url_shortener/blob/main/README.md#4-backend-nestjs-setup)
-5. [Use of AI Assistance](https://github.com/iamabhas/nest_url_shortener/blob/main/README.md#5-use-of-ai-assistance)
+1. [Description of Project]()
+2. [Technologies Used]()
+3. [How to Run and Test API]()
+4. [Backend NestJS Setup]()
+5. [Use of AI Assistance]()
 
 ## 1. Description of Project
 I made a URL shortener that takes in a URL from the user and then shortens the URL. Users can also view previous URL history. Users need to be authenticated to use the shortening URL feature.
