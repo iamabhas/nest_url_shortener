@@ -1,12 +1,7 @@
 # URL Shortener Project
 
 ## Table of Contents
-
-1. [Description of Project]()
-2. [Technologies Used]()
-3. [How to Run and Test API]()
-4. [Backend NestJS Setup]()
-5. [Use of AI Assistance]()
+Description of Project, Technologies Used, How to Run and Test API, Backend NestJS Setup, Use of AI Assistance
 
 ## 1. Description of Project
 I made a URL shortener that takes in a URL from the user and then shortens the URL. Users can also view previous URL history. Users need to be authenticated to use the shortening URL feature.
