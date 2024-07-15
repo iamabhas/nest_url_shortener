@@ -50,7 +50,7 @@ The NestJS backend is organized as follows:
   - **guards**: Contains guard files for route protection with jwt.
   - **shortenUrl**: Manages URL shortening logic.
   - **strategy**: For authentication strategies (not used in project).
-  - **types**: Contains consist of global interfaces. auth and shortenUrl directories have their own interface and dto directories.
+  - **types**: Consist of global interfaces. 'auth' and 'shortenUrl' directories have their own interface and dto directories.
   - **utils**: Contains Bcrypt hashing helper class.
 
 React was used in frontend and divided in to components and pages. React router was used for routing where as material ui for styling.
